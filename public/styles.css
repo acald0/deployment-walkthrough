@@ -1,0 +1,22 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(168, 214, 255);
+}
+
+h1 {
+    margin-bottom: 30px;    
+}
+
+button {
+    background-color: #fcedff;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 1.2em;
+}
